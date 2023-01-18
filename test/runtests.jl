@@ -1,6 +1,6 @@
 using Test
 using test_CI_windows
-using DifferentialEquations
+# using DifferentialEquations
 
 
 @testset begin

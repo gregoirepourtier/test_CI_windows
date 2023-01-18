@@ -4,7 +4,7 @@ module test_CI_windows
 using SparseDiffTools
 using ExtendableSparse
 
-using DifferentialEquations
+# using DifferentialEquations
 
 
 greet() = "Hello World!"

@@ -4,7 +4,6 @@ authors = ["gregoirepourtier <gpourtier@icloud.com>"]
 version = "0.1.0"
 
 [deps]
-DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
 ExtendableSparse = "95c220a8-a1cf-11e9-0c77-dbfce5f500b3"
 SparseDiffTools = "47a9eef4-7e08-11e9-0b38-333d64bd3804"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
