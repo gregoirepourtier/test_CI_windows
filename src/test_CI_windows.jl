@@ -3,7 +3,7 @@ module test_CI_windows
 # using SparseDiffTools
 # using ExtendableSparse
 
-using DifferentialEquations
+import DifferentialEquations
 
 
 greet() = "Hello World!"
