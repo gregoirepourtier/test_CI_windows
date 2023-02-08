@@ -3,11 +3,6 @@ using test_CI_windows
 
 import Pkg
 
-Pkg.status()
-Pkg.instantiate()
-Pkg.status()
-
-
 @testset begin
     @test greet() == "Hello World!"
 end
